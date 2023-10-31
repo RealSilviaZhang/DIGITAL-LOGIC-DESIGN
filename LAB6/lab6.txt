@@ -1,0 +1,1 @@
+<iframe width="600px" height="400px" src="https://circuitverse.org/simulator/embed/lab6-9f613df7-85a1-4d18-95f5-a5dd822863ef" id="projectPreview" scrolling="no" webkitAllowFullScreen mozAllowFullScreen allowFullScreen></iframe>
